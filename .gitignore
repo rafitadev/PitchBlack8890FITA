@@ -1,0 +1,8 @@
+out/
+.repo/
+ccache/
+*.img
+*.tar
+*.zip
+*.log
+prebuilts/python/
