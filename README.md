@@ -4,7 +4,7 @@
 This repository contains the PitchBlack Recovery Project (PBRP) source code and device trees for Samsung Exynos 8890 devices (herolte, hero2lte, gracerlte), based on Android 9.0 (SDK 28).
 
 ## Project Status
-- **Base**: PBRP 3.x
+- **Base**: PBRP 4.0
 - **Android Version**: 9.0
 - **Developer**: [@RafitaDev](https://github.com/rafitadev)
 - **Edition**: FitaDev Special Build
